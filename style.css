@@ -1,0 +1,38 @@
+body{ 
+    font-family: "Courier New";
+    background-color: #aaaaaa
+}
+
+
+
+h1 {
+    color: #ff00ff;
+    background-color: aqua;
+    font-family: 'Courier New';
+
+
+}
+
+h6 { 
+    color: forestgreen;
+    border: 10px solid turquoise
+
+}
+
+p {
+color: red;
+ }
+
+ img{
+     width: 75%;
+     height: 50%;
+     margin: 100px;
+  }
+
+  .aboutme {
+      color: blue;
+   }
+
+   #jakob {
+       color:red;
+    }
